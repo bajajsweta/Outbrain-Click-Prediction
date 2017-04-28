@@ -135,12 +135,12 @@ ui <- pageWithSidebar(
    
     
     tabsetPanel(
-      tabPanel("Probablity", textInput("name", "DisplayID", 22474926 , placeholder = NULL)),
+      tabPanel("Probablity", textInput("name", "DisplayID", 125211 , placeholder = NULL)),
                
-      tabPanel("Indiviual Ad", textInput("ad_id", "Adid", 0, placeholder = NULL),
+      tabPanel("Indiviual Ad", textInput("ad_id", "Ad-id", 0, placeholder = NULL),
                textInput("Platform", "Platform", 1, placeholder = NULL),
                textInput("State", "State", 0, placeholder = NULL),
-               textInput("Documentid", "Document_id", 0, placeholder = NULL),
+               textInput("Documentid", "Document-id", 0, placeholder = NULL),
                textInput("TrafficSource", "TrafficSource", 0, placeholder = NULL),
                textInput("Mean_cf", "ConfidenceLevel", 0.00, placeholder = NULL))
       #tabPanel("Table", tableOutput("table"))
@@ -185,7 +185,7 @@ server <- function(input, output, session) {
   classify <- reactive({ http_function_classification(input$ad_id,input$Platform,input$State,input$Documentid,input$TrafficSource,input$Mean_cf)})
   classify1 <- reactive({ http_function_classification1(input$name)})
   
-  output$value_classification <- renderText({paste("Probablity of Ad getting :: ",classify())})
+  output$value_classification <- renderText({paste("Probablity of Ad getting clicked :: ",classify())})
   output$value_classification1 <- renderText({paste("Ad Id's by decreasing order of Probablity :: ",classify1())})
   
     
