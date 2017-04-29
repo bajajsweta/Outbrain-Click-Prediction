@@ -48,6 +48,10 @@ and below is the model evaulation
 
 ![click probability](https://cloud.githubusercontent.com/assets/21116708/25552442/c4d45670-2c67-11e7-9f97-e2ccf68b36d7.JPG)
 
+* Below is the screenshot of rest API that will predict individual ad click probablity
+
+![whatsapp image 2017-04-28 at 11 51 04 pm](https://cloud.githubusercontent.com/assets/21116708/25552661/9fc97832-2c6d-11e7-8457-79779458a669.jpeg)
+
 
 # Exploratory Analysis
 
