@@ -28,7 +28,7 @@ def metadata_model():
     clicks_test = pd.read_csv('clicks_test.csv')
     
     ### Split the DataFrame into smaller chunks
-    size_of_chunk = 1000
+    size_of_chunk = 15000000
     Df_List = list()
     numOfChunks = len(clicks_train) // size_of_chunk + 1
     for i in range(numOfChunks):
