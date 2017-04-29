@@ -65,7 +65,8 @@ Ranking the recommendations in each group by decreasing predicted likelihood of 
 
 ### Analysis 3
 <hr>
-![screen shot 2017-04-26 at 10 32 00 am](https://cloud.githubusercontent.com/assets/21116708/25552476/db519c2c-2c68-11e7-88c4-b81f6a072e98.png)
+
+![screen shot 2017-04-26 at 10 22 26 am](https://cloud.githubusercontent.com/assets/21116708/25552522/f1240bce-2c69-11e7-8ee2-f8eeb3a00f78.png)
 
 #### Observations
 * The number of clicks increase from 9.am. and reaches highest at around 10 a.m. and remains high till 12p.m. and then gradually decreases till it hits 3.p.m. It again rises from 3p.m.
