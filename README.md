@@ -1,4 +1,7 @@
 # Outbrain-Click-Prediction
+<hr>
+
+# Deliverables
 
 Project Proposal Video : https://www.youtube.com/watch?v=IeKPIaOxPJI
 
