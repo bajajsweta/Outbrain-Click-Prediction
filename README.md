@@ -1,6 +1,8 @@
 # Outbrain-Click-Prediction
 <hr>
+
 ![screen shot 2017-04-28 at 11 06 49 pm](https://cloud.githubusercontent.com/assets/21116708/25552417/6fe17abc-2c67-11e7-8e0a-5714286a572f.png)
+
 # Deliverables
 <hr>
 
