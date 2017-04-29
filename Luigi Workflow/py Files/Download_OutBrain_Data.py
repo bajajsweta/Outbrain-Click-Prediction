@@ -15,9 +15,11 @@ import io
 def download_data():
     
     print("Dowloading of data started!")
+    ursname = input("Enter username:")
+    pswd = input("Enter password:")
     
     s = requests.session()
-    payload = {'username': 'yogitaj508@gmail.com', 'password': 'ADSTEAM8'}
+    payload = {'username': ursname, 'password': pswd}
     url = 'https://www.kaggle.com/account/login?ReturnUrl=%2faccount%2fset-username%3freturnUrl%3d%2fc%2foutbrain-click-prediction&returnUrl=/c/outbrain-click-prediction'
     a = s.post(url, data=payload)
     
