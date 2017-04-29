@@ -2,6 +2,7 @@
 <hr>
 
 # Deliverables
+<hr>
 
 Project Proposal Video : https://www.youtube.com/watch?v=IeKPIaOxPJI
 
@@ -11,6 +12,9 @@ Tableau Online link: https://us-east-1.online.tableau.com/#/site/ads_outbrain_fi
 
 Final Report document: ADS_Final_Project_Report_Team8.docx
 
+# Note
+In Exploratory analysis we have used plotly in offline mode, hence the graph will not be visible unless the code is run.
+The Report has all the graph images along with the explanation.
 
 
 ## PROBLEM STATEMENT:
@@ -21,6 +25,8 @@ Knowing what the users are interested in and what the users are using in real wo
 as well as ad placements and real time bidding
 Predicting the likelihood of users clicking on a particular content
 Ranking the recommendations in each group by decreasing predicted likelihood of being clicked
+
+
 
 
 
