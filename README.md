@@ -14,6 +14,10 @@ Tableau Online link: https://us-east-1.online.tableau.com/#/site/ads_outbrain_fi
 
 Final Report document: ADS_Final_Project_Report_Team8.docx
 
+DockerHub Link : : https://hub.docker.com/r/sweta/outbrain_prediction/
+
+Demo Link: 
+
 # Note
 In Exploratory analysis we have used plotly in offline mode, hence the graph will not be visible unless the code is run.
 The Report has all the graph images along with the explanation.
