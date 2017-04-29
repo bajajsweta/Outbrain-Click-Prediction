@@ -38,7 +38,14 @@ Ranking the recommendations in each group by decreasing predicted likelihood of 
 ![click probability](https://cloud.githubusercontent.com/assets/21116708/25552442/c4d45670-2c67-11e7-9f97-e2ccf68b36d7.JPG)
 
 
+# Exploratory Analysis
 
+![screen shot 2017-04-28 at 11 16 21 pm](https://cloud.githubusercontent.com/assets/21116708/25552472/c0150d2c-2c68-11e7-9c9e-53e411ab7090.png)
 
+### Observations
+* Maximum percentage of clicks were made through mobile phones, followed by desktop and then tablets. Mainly because: 
 
+* App Availability: the app is available that is available on desktop is now present on model too.
+
+* Convenience:  Games or social networking apps frequently serve as a way to pass the time while on the subway commuting home or in a cab or surfing net. This directly reflects the increase in uses of mobile devices    
 
