@@ -18,7 +18,7 @@ DockerHub Link : : https://hub.docker.com/r/sweta/outbrain_prediction/
 
 Demo Link: 
 
-Tools used: R, R-shiny for web devolpment, Python, Plotly and Tableau for analysis, Docker, Luigi, IBM Data Science, Microsoft Azure
+Tools used: R, R-shiny for web devolpment, Python, Plotly and Tableau for analysis, Docker, Luigi, IBM Data Science, Microsoft Azure, AWS
 
 # Note
 In Exploratory analysis we have used plotly in offline mode, hence the graph will not be visible unless the code is run.
@@ -44,6 +44,7 @@ Ranking the recommendations in each group by decreasing predicted likelihood of 
 
 ### Analysis 1
 <hr>
+
 ![screen shot 2017-04-28 at 11 16 21 pm](https://cloud.githubusercontent.com/assets/21116708/25552472/c0150d2c-2c68-11e7-9c9e-53e411ab7090.png)
 
 #### Observations
