@@ -29,7 +29,9 @@ Predicting the likelihood of users clicking on a particular content
 Ranking the recommendations in each group by decreasing predicted likelihood of being clicked
 
 
+## 
 
+![click probability](https://cloud.githubusercontent.com/assets/21116708/25552442/c4d45670-2c67-11e7-9f97-e2ccf68b36d7.JPG)
 
 
 
