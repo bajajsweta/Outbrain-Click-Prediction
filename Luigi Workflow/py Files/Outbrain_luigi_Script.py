@@ -38,9 +38,11 @@ class Metadata_model(luigi.Task):
 class Upload_to_S3(luigi.Task):
     
     def requires(self):
+        time.sleep(40)
         return [Metadata_model()]
     
     def run(self):
+        time.sleep(40)
         print("running S3 script..")
         s3_upload.uploadToS3()
 
