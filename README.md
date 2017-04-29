@@ -17,7 +17,7 @@ Final Report document: ADS_Final_Project_Report_Team8.docx
 
 DockerHub Link : : https://hub.docker.com/r/sweta/outbrain_prediction/
 
-Demo Link: 
+Demo Link: https://www.youtube.com/watch?v=19ihFCw8RIM
 
 Tools used: R, R-shiny for web devolpment, Python, Plotly and Tableau for analysis, Docker, IBM Data Science, Microsoft Azure, AWS
 
@@ -35,10 +35,13 @@ as well as ad placements and real time bidding
 Predicting the likelihood of users clicking on a particular content
 Ranking the recommendations in each group by decreasing predicted likelihood of being clicked
 
-We have made Kaggle submission of the model. The model is evaluated as shown in the image below
+We have made Kaggle submission ofrandom forest model. The model is evaluated as shown in the image below
 
 ![screen shot 2017-04-28 at 11 31 33 pm](https://cloud.githubusercontent.com/assets/21116708/25552615/cc285f02-2c6c-11e7-8e04-fde3d97d6ec5.png)
 
+and below is the model evaulation
+
+![whatsapp image 2017-04-28 at 11 48 48 pm](https://cloud.githubusercontent.com/assets/21116708/25552645/5adedaf0-2c6d-11e7-93e1-f4a5bce0bed6.jpeg)
 
 
 * Below is a screenshot of rest API that will predict advertisement ids for an individual display id.
