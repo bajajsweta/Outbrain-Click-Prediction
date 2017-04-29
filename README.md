@@ -42,12 +42,52 @@ Ranking the recommendations in each group by decreasing predicted likelihood of 
 
 # Exploratory Analysis
 
+### Analysis 1
+<hr>
 ![screen shot 2017-04-28 at 11 16 21 pm](https://cloud.githubusercontent.com/assets/21116708/25552472/c0150d2c-2c68-11e7-9c9e-53e411ab7090.png)
 
-### Observations
+#### Observations
 * Maximum percentage of clicks were made through mobile phones, followed by desktop and then tablets. Mainly because: 
 
 * App Availability: the app is available that is available on desktop is now present on model too.
 
 * Convenience:  Games or social networking apps frequently serve as a way to pass the time while on the subway commuting home or in a cab or surfing net. This directly reflects the increase in uses of mobile devices    
+
+#### Analysis 2
+<hr>
+
+![clicks_by_hour_events_table](https://cloud.githubusercontent.com/assets/21116708/25552475/cb66b1c6-2c68-11e7-8aef-fd0a299863d3.png)
+
+#### Observations
+* We observed that the click frequency is very high between 10-15 hrs. Around 10-11 a.m. time people are usually on their commute to work, school etc. and pass their time surfing net. Around 1-3 p.m. is usually lunch time where people get time to surf internet and that’s the frequency is high.
+
+* The frequency in the bucket 15-20 is again when people are traveling back home and around dinner time when they have time to surf internet.
+
+### Analysis 3
+<hr>
+![screen shot 2017-04-26 at 10 32 00 am](https://cloud.githubusercontent.com/assets/21116708/25552476/db519c2c-2c68-11e7-88c4-b81f6a072e98.png)
+
+#### Observations
+* The number of clicks increase from 9.am. and reaches highest at around 10 a.m. and remains high till 12p.m. and then gradually decreases till it hits 3.p.m. It again rises from 3p.m.
+
+
+### Analysis 4 
+<hr>
+
+![screen shot 2017-04-28 at 7 35 57 pm](https://cloud.githubusercontent.com/assets/21116708/25552510/9b2d6e18-2c69-11e7-9069-53b87e8784d4.png)
+
+#### Observations
+From the dashboard we can conclude that USA that the maximum number of view rate. The frequency of clicks gradually increases from 6 am and was high around 10 a.m. to 12 p.m.
+The click was highest on Day 0 which is June 14th. It is a US national holiday
+
+
+### Analysis 5
+<hr>
+
+![screen shot 2017-04-28 at 7 36 39 pm](https://cloud.githubusercontent.com/assets/21116708/25552511/a156f3e0-2c69-11e7-8027-8fe7b936a946.png)
+
+#### Observations
+* California state has the maximum number of views.
+* The maximum number of views were from mobile devices at around 11 a.m. 
+
 
