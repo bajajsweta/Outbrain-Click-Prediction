@@ -18,6 +18,8 @@ DockerHub Link : : https://hub.docker.com/r/sweta/outbrain_prediction/
 
 Demo Link: 
 
+Tools used: R, R-shiny for web devolpment, Python, Plotly and Tableau for analysis, Docker, Luigi, IBM Data Science, Microsoft Azure
+
 # Note
 In Exploratory analysis we have used plotly in offline mode, hence the graph will not be visible unless the code is run.
 The Report has all the graph images along with the explanation.
