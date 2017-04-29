@@ -11,8 +11,8 @@ def uploadToS3():
     
     key = input("Enter the AWSKey:")
     secretkey = input("Enter the Secret Key:")
-    awsKey = key  # 'AKIAJN2PB753BDJASSMA'
-    awsSecret = secretkey #'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'
+    awsKey = key  # 
+    awsSecret = secretkey #
     
     bucname = input("Enter the bucket name:")
     
