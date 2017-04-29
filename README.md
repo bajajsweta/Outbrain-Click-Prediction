@@ -17,7 +17,9 @@ Final Report document: ADS_Final_Project_Report_Team8.docx
 
 DockerHub Link : : https://hub.docker.com/r/sweta/outbrain_prediction/
 
-Demo Link: https://www.youtube.com/watch?v=19ihFCw8RIM
+Project Demo Link: https://www.youtube.com/watch?v=19ihFCw8RIM
+
+Final Presentation Link :ADS_Final_Project_Team8.pptx
 
 Tools used: R, R-shiny for web devolpment, Python, Plotly and Tableau for analysis, Docker, IBM Data Science, Microsoft Azure, AWS
 
