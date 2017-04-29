@@ -35,6 +35,11 @@ as well as ad placements and real time bidding
 Predicting the likelihood of users clicking on a particular content
 Ranking the recommendations in each group by decreasing predicted likelihood of being clicked
 
+We have made Kaggle submission of the model. The model is evaluated as shown in the image below
+
+![screen shot 2017-04-28 at 11 31 33 pm](https://cloud.githubusercontent.com/assets/21116708/25552615/cc285f02-2c6c-11e7-8e04-fde3d97d6ec5.png)
+
+
 
 * Below is a screenshot of rest API that will predict advertisement ids for an individual display id.
 
